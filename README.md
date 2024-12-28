@@ -29,6 +29,7 @@ Listener AI is an innovative tool designed to help individuals enhance their con
 
 
 ## System Design
+![Screenshot 2024-12-29 at 00-33-25 Thinkathon - Thinkathon pdf](https://github.com/user-attachments/assets/433c7fc6-94f4-4ca4-8ce8-2894edd80a65)
 
 <hr>
 
@@ -71,18 +72,29 @@ npm start
 ```
 
 # PROJECT SNAPS
+![Screenshot 2024-12-29 at 00-34-09 Listener AI](https://github.com/user-attachments/assets/6fcd46e5-d73f-48f7-855a-1b3bebcabf50)
 
 
 <hr>
 
+![Screenshot 2024-12-29 at 00-34-18 Listener AI](https://github.com/user-attachments/assets/e642a701-07b0-4b63-b5dd-8c0914d2df56)
 
 
 <hr>
 
+![Screenshot 2024-12-29 at 00-34-33 Listener AI](https://github.com/user-attachments/assets/3c8fbbef-7703-4bd8-b194-227c0cdc8fd9)
 
 
 <hr>
 
+![vlcsnap-2024-12-29-00h36m14s318](https://github.com/user-attachments/assets/ba5183b7-84b7-4dd5-853c-c5e747d137a9)
 
 
+<hr>
 
+![vlcsnap-2024-12-29-00h36m38s307](https://github.com/user-attachments/assets/68992ccd-5f4d-4e3d-810f-a4fd3b398401)
+
+
+<hr>
+
+## THANK YOU
