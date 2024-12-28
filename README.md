@@ -1,19 +1,17 @@
 # Listener AI - Turning Conversations into Insights
 
-**Video Demo  - **
+**Deployed Link - https://listener-ai.vercel.app/**
 
-**Deployed Link - **
-
-**Dispatcher Analyzer backend - **
+**Conversation Analyzer backend - https://listener-ai.streamlit.app/**
 
 <hr>
 
 ## The Problem We Are Trying to Solve
-
+Today many people struggle with improving their conversational skills due to lack of personalized feedback and practice. There is a need for an AI solution that provides real-time analysis and actionable feedback to help individuals enhance their communication abilities.
 
 
 ## Our Solution
-
+Listener AI is an innovative tool designed to help individuals enhance their conversational skills by turning everyday interactions into valuable learning experiences. By recording, transcribing, and analyzing conversations, Listener AI provides personalized feedback, performance insights, and simulated scenarios, enabling users to improve their communication abilities and gain confidence in any setting.
 
 
 ## Key Features of listener AI
