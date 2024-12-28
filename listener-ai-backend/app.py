@@ -25,7 +25,7 @@ def transcribe_audio(audio_file_path):
     audio_file = genai.upload_file(path=audio_file_path)
     response = model.generate_content(
         [
-            "Transcribe the following audio as a conversation between you and person 1. Mark the dialogues as you and person 1. Write nothing else.",
+            "Transcribe the following audio as a conversation between you and person 1. Mark the dialogues as you and person 1. Put a line space between each dialogue. Write nothing else.",
             audio_file
         ]
     )
@@ -64,7 +64,7 @@ if audio_file is not None:
     audio_path = save_uploaded_file(audio_file)  # Save the uploaded file and get the path
     st.audio(audio_path)
 
-    if st.button('Process Call'):
+    if st.button('Analyze Audio'):
         with st.spinner('Processing audio...'):
             st.session_state["transcription"] = transcribe_audio(audio_path)
             st.session_state["performance"] = analyze_performance(st.session_state["transcription"])
@@ -78,5 +78,4 @@ if st.session_state["transcription"] and st.session_state["performance"]:
         st.markdown(st.session_state["transcription"], unsafe_allow_html=True)
 
     elif pane == "Performance Analysis":
-        st.subheader("Performance Analysis Pane")
         st.markdown(st.session_state["performance"], unsafe_allow_html=True)
